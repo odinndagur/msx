@@ -1,6 +1,6 @@
 {
   "name": "odb",
   "version": "1.0.0",
-  "parameter": "menu:https://raw.githubusercontent.com/odinndagur/msx/main/menu.json"
+  "parameter": "menu:http://127.0.0.1:8080/msx/menu.json"
 }
 

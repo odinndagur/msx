@@ -37,8 +37,9 @@
                         "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=sC46642qqHE",
                         "image": "https://img.youtube.com/vi/sC46642qqHE/0.jpg"
                     }, {
-                        "title": "Video 2",                       
-                        "action": "video:http://msx.benzac.de/media/video2.mp4"
+                        "title": "Video 4",                       
+                        "action": "video:http://msx.benzac.de/media/video3.mp4",
+                        "icon": "msx-white-soft:movie"
                     }, {
                         "title": "Video 3",                       
                         "action": "video:http://msx.benzac.de/media/video3.mp4",
