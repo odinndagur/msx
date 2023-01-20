@@ -1,6 +1,33 @@
 {
     "headline": "My Example Content",
     "menu": [{
+            "icon": "movie",
+            "label": "TV",
+            "data": {
+                "type": "pages",               
+                "template": {                  
+                    "type": "separate",
+                    "layout": "0,0,2,4",
+                    "color": "msx-glass"                    
+                },
+                "items": [{
+                        "title": "RÚV",                        
+                        "action": "video:http://ruvruv-live.hls.adaptive.level3.net/ruv/ruv/index/stream5.m3u8 ",
+                        // "image": "https://img.youtube.com/vi/sC46642qqHE/0.jpg"
+                    }, {
+                        "title": "Video 2",                       
+                        "action": "video:http://msx.benzac.de/media/video2.mp4"
+                    }, {
+                        "title": "Video 3",                       
+                        "action": "video:http://msx.benzac.de/media/video3.mp4",
+                        "icon": "msx-white-soft:movie"
+                    }, {
+                        "title": "Testa yo",
+                        "action": "video:https://ruv-vod.akamaized.net/opid/5224944T0/5224944T0.m3u8",
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/1200px-OSIRIS_Mars_true_color.jpg"
+                    }]
+            }
+        }, {
         "icon": "movie",
         "image": "https://d38kdhuogyllre.cloudfront.net/fit-in/2048x/filters:quality(65)/hd_posters/9dtrm0-6a17m8.jpg",
         "label": "Hvolpasveitin",
