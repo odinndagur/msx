@@ -37,8 +37,8 @@
                         "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=sC46642qqHE",
                         "image": "https://img.youtube.com/vi/sC46642qqHE/0.jpg"
                     }, {
-                        "title": "Video 4",                       
-                        "action": "video:http://msx.benzac.de/media/video3.mp4",
+                        "title": "RÚV",                       
+                        "action": "video:https://ed2.cdn.ruv.is/O6QzpZVyLzyDhFK1O7LMSw.1674317601/live/d0/ruv/317f60ed57214a39872eacca6fa96f2d/index/stream_1.m3u8",
                         "icon": "msx-white-soft:movie"
                     }, {
                         "title": "Video 3",                       
